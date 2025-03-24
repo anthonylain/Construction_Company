@@ -368,6 +368,7 @@ body {
 .contacts__grid-item {
   max-width: 253px;
   justify-items: center;
+  text-align: center;
 }
 .contacts_img {
   margin: 0 auto 16px;
